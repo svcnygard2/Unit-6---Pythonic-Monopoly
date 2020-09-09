@@ -6,5 +6,5 @@
   - Pulled from a .env file.
 ## After you run the code:
 - If you want to re-run the code, make sure to restart the kernals before hand to eliminate a potential error.
-- After running the "servable()" function at the end of dashboard.ipby, run "panel serve --show dashboard.ipby" in your Git Bash, Anaconda Prompt, or Mac Terminal.
+- After running the "servable()" function at the end of dashboard.ipby, run "panel serve --show dashboard.ipynb" in your Git Bash, Anaconda Prompt, or Mac Terminal.
   - This will load the servable data into your web browser.
